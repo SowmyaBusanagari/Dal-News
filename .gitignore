@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Back-end/node_modules
+/.vs/csci-5409-adv-topic-in-cloud-computing-group-project/config/applicationhost.config
